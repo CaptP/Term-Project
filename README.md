@@ -5,6 +5,6 @@ Each measurement is ecpressed as 561 variations of acceleration, velocity, as je
 The r script, run_analysis.R, takes a series of files of this data,  (Notably in two parts the test and training parts) and 
 recombines this data, adds column headings and finally takes the averages of for each subject and activity. (Such as walking.)
 See CodeBook.md for details about this project. 
-The output file is Tidy_Averages.txt
+The output file is Tidy_Averages.txt.  It looks like Tidy_Averages goes to the project assignmnet page but not to github.
 CaptP
 
